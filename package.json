@@ -9,7 +9,7 @@
   "scripts": {
     "publish": "npm publish --access public",
     "prepublish": "tsc",
-    "prepare": "husky install"
+    "preinstall": "husky install"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
