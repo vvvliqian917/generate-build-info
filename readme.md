@@ -14,7 +14,7 @@ use in package.json
 ```
 use in commmand line
 ```
-    generate-build-info
+   npx generate-build-info
 ```
 
 it will generate a json file, file content as follow
