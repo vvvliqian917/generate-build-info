@@ -1,6 +1,6 @@
 {
   "name": "@vvvliqian/generate-build-info",
-  "version": "1.0.4",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "license": "MIT",
   "bin": {
